@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caveman Philosophy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Caveman Philosophy</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#content">Content</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Step Into the Cave of Wonders</h2>
+            <p>Where curiosity leads to discovery. Explore the depths of thought, philosophy, and wonder.</p>
+            <a href="#content" class="btn">Explore Now</a>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h3>About Caveman Philosophy</h3>
+            <p>Caveman Philosophy is your invitation to delve into the ideas and perspectives that shape our world. Inspired by the Allegory of the Cave, this is a space for those who seek to question, learn, and grow.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Caveman Philosophy. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
